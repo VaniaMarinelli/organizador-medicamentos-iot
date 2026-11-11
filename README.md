@@ -1,5 +1,3 @@
-# organizador-medicamentos-iot
-
 # Organizador Inteligente de Medicamentos (IoT)
 
 ## 📌 Descrição do Projeto
